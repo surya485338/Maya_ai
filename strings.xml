@@ -1,0 +1,3 @@
+<resources>
+    <string name="accessibility_description">MAYA AI detects when a selected payment app comes to the foreground so it can remind you to pause the assistant. It does not read payment screens or interact with payments.</string>
+</resources>
